@@ -32,9 +32,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://i.pinimg.com/originals/18/f1/72/18f1727873924ba58fde1f739d11b77b.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
-<img src="![image](https://user-images.githubusercontent.com/83903574/140587488-0d0db5bf-77c3-44d5-a2cc-41d78e7d6719.png)
-" alt="XD" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photoshop/photoshop.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
+<img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="40" style="vertical-align:top; margin:4px">
+<img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 

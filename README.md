@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyriacduChatenet&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyriacduChatenet&show_icons=true&theme=tokyonight)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cyriacduchatenet)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br>

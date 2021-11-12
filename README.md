@@ -4,8 +4,8 @@
 - web develloppement isn't just a job, for me it's a passion. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyriacduChatenet&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyriacduChatenet&show_icons=true&theme=tokyonight)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyriacduChatenet&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyriacduChatenet&show_icons=true&theme=tokyonight)
 
 
 

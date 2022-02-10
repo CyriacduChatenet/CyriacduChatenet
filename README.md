@@ -46,9 +46,9 @@
 
 ## Let's connect 
 <div>
-  <a href="https://www.linkedin.com/in/cyriac-descubes-du-chatenet-4776911b8/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="60" style="vertical-align:top; margin:20px"></a>
-  <a href="https://www.instagram.com/cyriacduchatenet_pro/?hl=fr"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram" height="60" style="vertical-align:top; margin:20px"></a>
-  <a href="https://dribbble.com/CyriacDuChatenet"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="Dribbble" height="60" style="vertical-align:top; margin:20px"></a>
+  <a href="https://www.linkedin.com/in/cyriac-descubes-du-chatenet-4776911b8/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="60" style="vertical-align:top; margin:20px"></a>
+  <a href="https://www.instagram.com/cyriacduchatenet_pro/?hl=fr" target="_blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram" height="60" style="vertical-align:top; margin:20px"></a>
+  <a href="https://dribbble.com/CyriacDuChatenet" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="Dribbble" height="60" style="vertical-align:top; margin:20px"></a>
 </div>
 <!---
 CyriacduChatenet/CyriacduChatenet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

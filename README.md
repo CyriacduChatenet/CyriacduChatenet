@@ -44,12 +44,12 @@
 <img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-
-
-
-
-
-
+## Let's connect 
+<div>
+  <a href="https://www.linkedin.com/in/cyriac-descubes-du-chatenet-4776911b8/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="20" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.instagram.com/cyriacduchatenet_pro/?hl=fr"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram" height="20" style="vertical-align:top; margin:4px"></a>
+  <a href="https://dribbble.com/CyriacDuChatenet"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="Dribbble" height="20" style="vertical-align:top; margin:4px"></a>
+</div>
 <!---
 CyriacduChatenet/CyriacduChatenet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

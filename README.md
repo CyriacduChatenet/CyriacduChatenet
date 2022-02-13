@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Cyriac du Chatenet, i'm a french 🇫🇷 web developer. 
--  I’m interested by web developpement front-end and back-end 💻
+- 👋 Hi, I’m Cyriac du Chatenet, I'm a french 🇫🇷 web developer. I started to code in october 2020.
+-  I have good skills in frontend, I use a lot React and Vue.js 💻
 - On my Github's profile i have multiple projects with different technologies. some projects are finished, other not. 
 - web develloppement isn't just a job, for me it's a passion. 
 

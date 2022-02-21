@@ -50,7 +50,9 @@
 <img src="https://i.pinimg.com/originals/18/f1/72/18f1727873924ba58fde1f739d11b77b.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
 <img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="40" style="vertical-align:top; margin:4px">
 <img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="40" style="vertical-align:top; margin:4px">
+<img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="40" style="vertical-align:top; margin:4px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtk7DBxLzfqWPMJkYD3HYmmi_m3OZl21p13tbuVptwvWZakCaumcV8IZWs5KXE8Ljlv8&usqp=CAU" alt="Jira" height="40" style="vertical-align:top; margin:4px">
+<img src="https://bubbleplan.net/blog/wp-content/uploads/2020/09/confluence-vector-logo.png" alt="Confluence" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## Let's connect 

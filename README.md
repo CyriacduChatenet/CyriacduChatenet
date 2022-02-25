@@ -13,46 +13,46 @@
 ## 🛠 Languages and Tools:
 <h3>Languages</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.carpemedia.fr/wp-content/uploads/2016/06/toutes-nos-formations-wordpress.png" alt="Wordpress" height="40" style="vertical-align:top; margin:4px">
+  <a href="https://devdocs.io/javascript/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.typescriptlang.org/" target="_blank">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://devdocs.io/html/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://devdocs.io/css/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="" target="_blank"><img src="https://www.carpemedia.fr/wp-content/uploads/2016/06/toutes-nos-formations-wordpress.png" alt="Wordpress" height="40" style="vertical-align:top; margin:4px"></a>
 <br>
   
 <h3>Frameworks</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Nextjs" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.nuxtjs.cn/NUXTJS-logo-800.png" alt="Nuxtjs" height="40" style="vertical-align:top; margin:4px">
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height="35" style="vertical-align:top; margin:4px">
+   <a href="https://fr.reactjs.org/docs/getting-started.html"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px" target="_blank"></a>
+   <a href="https://nextjs.org/docs" target="_blank"><img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Nextjs" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://v2.vuejs.org/v2/guide/?redirect=true" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.nuxtjs.cn/NUXTJS-logo-800.png" alt="Nuxtjs" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height="35" style="vertical-align:top; margin:4px"></a>
   
 <h3>Libraries</h3>
 <p align="center">
-<img src="https://www.pngkit.com/png/full/353-3530143_greensock-gsap-html-5-banner-ads-greensock-logo.png" alt="GSAP" height="40" style="vertical-align:top; margin:4px">
-<img src="https://starter-uploads.nyc3.digitaloceanspaces.com/logo_1867c276c6.png" alt="Strapi" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+   <a href="https://greensock.com/docs/" target="_blank"><img src="https://www.pngkit.com/png/full/353-3530143_greensock-gsap-html-5-banner-ads-greensock-logo.png" alt="GSAP" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://strapi.io/"><img src="https://starter-uploads.nyc3.digitaloceanspaces.com/logo_1867c276c6.png" alt="Strapi" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 <br>
 
 <h3>Tools</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" alt="Babel" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" alt="Eslint" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" height="40" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/max/1200/1*Gjhk6qvPM5zAy1iPPS1ttg.png" alt="Parcel.JS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://mms.businesswire.com/media/20210525005290/en/880755/23/vercel-logotype-dark.jpg" alt="Vercel" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" alt="Heroku" height="40" style="vertical-align:top; margin:4px">
-<img src="https://i.pinimg.com/originals/18/f1/72/18f1727873924ba58fde1f739d11b77b.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
-<img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="40" style="vertical-align:top; margin:4px">
-<img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
-<img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="40" style="vertical-align:top; margin:4px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtk7DBxLzfqWPMJkYD3HYmmi_m3OZl21p13tbuVptwvWZakCaumcV8IZWs5KXE8Ljlv8&usqp=CAU" alt="Jira" height="40" style="vertical-align:top; margin:4px">
-<img src="https://bubbleplan.net/blog/wp-content/uploads/2020/09/confluence-vector-logo.png" alt="Confluence" height="40" style="vertical-align:top; margin:4px">
+   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://babeljs.io/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" alt="Babel" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://eslint.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" alt="Eslint" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://webpack.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://parceljs.org/docs/" target="_blank"><img src="https://miro.medium.com/max/1200/1*Gjhk6qvPM5zAy1iPPS1ttg.png" alt="Parcel.JS" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://git-scm.com/doc" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://vercel.com" target="_blank"><img src="https://mms.businesswire.com/media/20210525005290/en/880755/23/vercel-logotype-dark.jpg" alt="Vercel" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://heroku.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" alt="Heroku" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="" target="_blank"><img src="https://i.pinimg.com/originals/18/f1/72/18f1727873924ba58fde1f739d11b77b.png" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.adobe.com/fr/products/xd.html" target="_blank"><img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.notion.so/" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.atlassian.com/fr/software/jira" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtk7DBxLzfqWPMJkYD3HYmmi_m3OZl21p13tbuVptwvWZakCaumcV8IZWs5KXE8Ljlv8&usqp=CAU" alt="Jira" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.atlassian.com/fr/software/confluence" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2020/09/confluence-vector-logo.png" alt="Confluence" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Let's connect 

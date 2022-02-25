@@ -47,7 +47,7 @@
    <a href="https://git-scm.com/doc" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://vercel.com" target="_blank"><img src="https://mms.businesswire.com/media/20210525005290/en/880755/23/vercel-logotype-dark.jpg" alt="Vercel" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://heroku.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" alt="Heroku" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="" target="_blank"><img src="https://i.pinimg.com/originals/18/f1/72/18f1727873924ba58fde1f739d11b77b.png" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.figma.com/" target="_blank"><img src="https://i.pinimg.com/originals/18/f1/72/18f1727873924ba58fde1f739d11b77b.png" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://www.adobe.com/fr/products/xd.html" target="_blank"><img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://www.notion.so/" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"></a>

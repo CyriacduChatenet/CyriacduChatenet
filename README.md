@@ -35,6 +35,7 @@
    <a href="https://greensock.com/docs/" target="_blank"><img src="https://www.pngkit.com/png/full/353-3530143_greensock-gsap-html-5-banner-ads-greensock-logo.png" alt="GSAP" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://strapi.io/"><img src="https://starter-uploads.nyc3.digitaloceanspaces.com/logo_1867c276c6.png" alt="Strapi" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"></a>
+     <a href="https://jestjs.io/fr/" target="_blank"><img src="https://ichi.pro/assets/images/max/640/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="Jest" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 <br>
 

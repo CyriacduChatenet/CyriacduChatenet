@@ -31,7 +31,7 @@
     <a href="https://storybook.js.org/" target="_blank"><img src="https://d3uyj2gj5wa63n.cloudfront.net/wp-content/uploads/2019/08/011fc620-4cb2-11e9-a51a-fdbb10b4cabb-e1567090000539.png" alt="Storybook" height="35" style="vertical-align:top; margin:4px"></a>
 
 ## Backend
-#### Languages
+### Languages
 <a href="https://php.net"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" height="40" style="vertical-align:top; margin:4px"></a>
 
 ## Product Management

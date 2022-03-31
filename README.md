@@ -10,7 +10,7 @@
 
 <br>
 
-# 🛠 Languages and Tools:
+# 🛠 Stack:
 
 ## Frontend
 ### Languages

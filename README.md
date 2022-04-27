@@ -32,6 +32,8 @@
 
 ## Backend
 ### Languages
+  <a href="https://devdocs.io/javascript/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.typescriptlang.org/" target="_blank">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://php.net"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" height="40" style="vertical-align:top; margin:4px"></a>
 
 ## Product Management

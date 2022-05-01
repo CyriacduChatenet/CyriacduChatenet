@@ -37,8 +37,8 @@
 <a href="https://php.net"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" height="40" style="vertical-align:top; margin:4px"></a>
 
 ### Frameworks & libraries
-<a href="https://nodejs.org/en/"><img src="https://chrissensebe.github.io/presentation-node/img/nodejs-new-pantone-white.png" alt="Node logo" height="200"></a>
-<a href="https://www.mongodb.com/"><img src="https://www.ambient-it.net/wp-content/uploads/2018/07/mongodb-175.png" alt="MongoDB logo" height="200"></a>
+<a href="https://nodejs.org/en/"><img src="https://chrissensebe.github.io/presentation-node/img/nodejs-new-pantone-white.png" alt="Node logo" height="40"></a>
+<a href="https://www.mongodb.com/"><img src="https://www.ambient-it.net/wp-content/uploads/2018/07/mongodb-175.png" alt="MongoDB logo" height="40"></a>
 
 ## Product Management
    <a href="https://www.notion.so/" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"></a>

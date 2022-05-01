@@ -22,7 +22,7 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
    </a>
 
-### Frameworks
+### Frameworks & libraries
   <a href="https://fr.reactjs.org/docs/getting-started.html"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px" target="_blank"></a>
    <a href="https://nextjs.org/docs" target="_blank"><img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Nextjs" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://v2.vuejs.org/v2/guide/?redirect=true" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="40" style="vertical-align:top; margin:4px"></a>
@@ -35,6 +35,10 @@
   <a href="https://devdocs.io/javascript/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://www.typescriptlang.org/" target="_blank">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://php.net"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" height="40" style="vertical-align:top; margin:4px"></a>
+
+### Frameworks & libraries
+<a href="https://nodejs.org/en/"><img src="https://chrissensebe.github.io/presentation-node/img/nodejs-new-pantone-white.png" alt="Node logo" height="200"></a>
+<a href="https://www.mongodb.com/"><img src="https://www.ambient-it.net/wp-content/uploads/2018/07/mongodb-175.png" alt="MongoDB logo" height="200"></a>
 
 ## Product Management
    <a href="https://www.notion.so/" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"></a>

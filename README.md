@@ -8,8 +8,8 @@
 - On my Github's profile i have multiple projects with different technologies. some projects are finished, other not.
 - web develloppement isn't just a job, for me it's a passion.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyriacduChatenet&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyriacduChatenet)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyriacduChatenet&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyriacduChatenet&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Cyriac du Chatenet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyriacduChatenet&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>

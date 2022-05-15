@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Cyriac du Chatenet, I'm a french 🇫🇷 web developer. I started to code in october 2020.
-- During my studies, I'm a self-taugh, I have learn React, Vue.js and Typescript alone.
-- I have good skills in frontend, I use a lot React and Vue.js 💻
-- I use Node.js and MongoDB
+- During my studies, I'm a self-taugh, I have learn React, Vue.js and Typescript, Node.js, MongoDB alone.
+- I have good skills in frontend, I use a lot React, Vue.js and Node.js 💻
 
 - Now, i am learning Angular and Cypress
 

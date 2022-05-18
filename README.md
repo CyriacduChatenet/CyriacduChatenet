@@ -33,6 +33,7 @@
    <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.nuxtjs.cn/NUXTJS-logo-800.png" alt="Nuxtjs" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height="35" style="vertical-align:top; margin:4px"></a>
     <a href="https://storybook.js.org/" target="_blank"><img src="https://d3uyj2gj5wa63n.cloudfront.net/wp-content/uploads/2019/08/011fc620-4cb2-11e9-a51a-fdbb10b4cabb-e1567090000539.png" alt="Storybook" height="35" style="vertical-align:top; margin:4px"></a>
+        <a href="https://www.cypress.io/" target="_blank"><img src="https://www.ideematic.com/wp-content/uploads/2018/07/Cypress-tests-end-to-end.png" alt="Cypress" height="35" style="vertical-align:top; margin:4px"></a>
 
 ## Backend
 ### Languages
@@ -43,6 +44,8 @@
 ### Frameworks & libraries
 <a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node logo" height="40"></a>
 <a href="https://www.mongodb.com/"><img src="https://www.ambient-it.net/wp-content/uploads/2018/07/mongodb-175.png" alt="MongoDB logo" height="40"></a>
+<a href="https://expressjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express logo" height="40"></a>
+        <a href="https://www.cypress.io/" target="_blank"><img src="https://www.ideematic.com/wp-content/uploads/2018/07/Cypress-tests-end-to-end.png" alt="Cypress" height="35" style="vertical-align:top; margin:4px"></a>
 
 ## Product Management
    <a href="https://www.notion.so/" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"></a>

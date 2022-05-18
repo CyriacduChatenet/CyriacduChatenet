@@ -6,7 +6,7 @@
 
 - On my Github's profile i have multiple projects with different technologies. some projects are finished, other not.
 - web develloppement isn't just a job, for me it's a passion.
-- <br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyriacduChatenet&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![Cyriac du Chatenet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyriacduChatenet&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 

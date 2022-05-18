@@ -42,8 +42,8 @@
 <a href="https://php.net"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" height="40" style="vertical-align:top; margin:4px"></a>
 
 ### Frameworks & libraries
-<a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node logo" height="40"></a>
-<a href="https://www.mongodb.com/"><img src="https://www.ambient-it.net/wp-content/uploads/2018/07/mongodb-175.png" alt="MongoDB logo" height="40"></a>
+<a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node logo" height="60"></a>
+<a href="https://www.mongodb.com/"><img src="https://www.ambient-it.net/wp-content/uploads/2018/07/mongodb-175.png" alt="MongoDB logo" height="60"></a>
 <a href="https://expressjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express logo" height="60"></a>
         <a href="https://www.cypress.io/" target="_blank"><img src="https://www.ideematic.com/wp-content/uploads/2018/07/Cypress-tests-end-to-end.png" alt="Cypress" height="60" style="vertical-align:top; margin:4px"></a>
 

@@ -2,7 +2,7 @@
 - During my studies, I'm a self-taugh, I have learn React, Vue.js and Typescript, Node.js, MongoDB alone.
 - I have good skills in frontend, I use a lot React, Vue.js and Node.js 💻
 
-- Now, i am learning Angular, Redux and Cypress
+- Now, i am learning Angular, Redux Toolkit and Cypress
 
 - On my Github's profile i have multiple projects with different technologies. some projects are finished, other not.
 - web develloppement isn't just a job, for me it's a passion.

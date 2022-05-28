@@ -50,13 +50,13 @@
                         <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" alt="Jest" height="60" style="vertical-align:top; margin:4px"></a>
 
 ## Product Management
-   <a href="https://www.notion.so/" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.atlassian.com/fr/software/jira" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtk7DBxLzfqWPMJkYD3HYmmi_m3OZl21p13tbuVptwvWZakCaumcV8IZWs5KXE8Ljlv8&usqp=CAU" alt="Jira" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.atlassian.com/fr/software/confluence" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2020/09/confluence-vector-logo.png" alt="Confluence" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.notion.so/" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="80" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.atlassian.com/fr/software/jira" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtk7DBxLzfqWPMJkYD3HYmmi_m3OZl21p13tbuVptwvWZakCaumcV8IZWs5KXE8Ljlv8&usqp=CAU" alt="Jira" height="80" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.atlassian.com/fr/software/confluence" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2020/09/confluence-vector-logo.png" alt="Confluence" height="80" style="vertical-align:top; margin:4px"></a>
 
 ## Design
   <a href="https://www.figma.com/" target="_blank"><img src="https://i.pinimg.com/originals/18/f1/72/18f1727873924ba58fde1f739d11b77b.png" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.adobe.com/fr/products/xd.html" target="_blank"><img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.adobe.com/fr/products/xd.html" target="_blank"><img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="60" style="vertical-align:top; margin:4px"></a>
    <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px"></a>
 
 ## Let's connect

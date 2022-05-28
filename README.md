@@ -27,11 +27,11 @@
    </a>
 
 ### Frameworks & libraries
-  <a href="https://fr.reactjs.org/docs/getting-started.html"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px" target="_blank"></a>
-   <a href="https://nextjs.org/docs" target="_blank"><img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Nextjs" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://v2.vuejs.org/v2/guide/?redirect=true" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://fr.reactjs.org/docs/getting-started.html"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="60" style="vertical-align:top; margin:4px" target="_blank"></a>
+   <a href="https://nextjs.org/docs" target="_blank"><img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Nextjs" height="60" style="vertical-align:top; margin:4px"></a>
+   <a href="https://v2.vuejs.org/v2/guide/?redirect=true" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="60" style="vertical-align:top; margin:4px"></a>
    <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.nuxtjs.cn/NUXTJS-logo-800.png" alt="Nuxtjs" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height="35" style="vertical-align:top; margin:4px"></a>
+   <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height="40" style="vertical-align:top; margin:4px"></a>
     <a href="https://storybook.js.org/" target="_blank"><img src="https://d3uyj2gj5wa63n.cloudfront.net/wp-content/uploads/2019/08/011fc620-4cb2-11e9-a51a-fdbb10b4cabb-e1567090000539.png" alt="Storybook" height="35" style="vertical-align:top; margin:4px"></a>
         <a href="https://www.cypress.io/" target="_blank"><img src="https://www.ideematic.com/wp-content/uploads/2018/07/Cypress-tests-end-to-end.png" alt="Cypress" height="60" style="vertical-align:top; margin:4px"></a>
                 <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" alt="Jest" height="60" style="vertical-align:top; margin:4px"></a>

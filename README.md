@@ -51,7 +51,7 @@
 
 ## Product Management
    <a href="https://www.notion.so/" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="80" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.atlassian.com/fr/software/jira" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtk7DBxLzfqWPMJkYD3HYmmi_m3OZl21p13tbuVptwvWZakCaumcV8IZWs5KXE8Ljlv8&usqp=CAU" alt="Jira" height="80" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.atlassian.com/fr/software/jira" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtk7DBxLzfqWPMJkYD3HYmmi_m3OZl21p13tbuVptwvWZakCaumcV8IZWs5KXE8Ljlv8&usqp=CAU" alt="Jira" height="60" style="vertical-align:top; margin:4px"></a>
    <a href="https://www.atlassian.com/fr/software/confluence" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2020/09/confluence-vector-logo.png" alt="Confluence" height="80" style="vertical-align:top; margin:4px"></a>
 
 ## Design

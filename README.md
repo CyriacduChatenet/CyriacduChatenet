@@ -27,11 +27,10 @@
    </a>
 
 ### Frameworks & libraries
-    <a href="https://fr.reactjs.org/docs/getting-started.html"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="60" style="vertical-align:top; margin:4px" target="_blank"></a>
-    
-        <a href="https://fr.reactjs.org/docs/getting-started.html"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="60" style="vertical-align:top; margin:4px" target="_blank"></a>
         
-   <a href="https://nextjs.org/docs" target="_blank"><img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Nextjs" height="80" style="vertical-align:top; margin:4px"></a>
+   <a href="https://fr.reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="Nextjs" height="60" style="vertical-align:top; margin:4px"></a>
+    <a href="https://redux-js.org/docs" target="_blank"><img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="Redux" height="60" style="vertical-align:top; margin:4px"></a>
+     <a href="https://nextjs.org/docs" target="_blank"><img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Nextjs" height="80" style="vertical-align:top; margin:4px"></a>
    <a href="https://v2.vuejs.org/v2/guide/?redirect=true" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="60" style="vertical-align:top; margin:4px"></a>
    <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.nuxtjs.cn/NUXTJS-logo-800.png" alt="Nuxtjs" height="40" style="vertical-align:top; margin:4px"></a>
    <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height="40" style="vertical-align:top; margin:4px"></a>

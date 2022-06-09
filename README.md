@@ -29,7 +29,7 @@
 ### Frameworks & libraries
         
    <a href="https://fr.reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="Nextjs" height="60" style="vertical-align:top; margin:4px"></a>
-    <a href="https://redux-js.org/docs" target="_blank"><img src="https://e7.pngegg.com/pngimages/522/1018/png-clipart-purple-atom-redux-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="Redux" height="60" style="vertical-align:top; margin:4px"></a>
+    <a href="https://redux-js.org/docs" target="_blank"><img src="https://grafikart.fr/uploads/icons/redux.svg" alt="Redux" height="60" style="vertical-align:top; margin:4px"></a>
      <a href="https://nextjs.org/docs" target="_blank"><img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Nextjs" height="80" style="vertical-align:top; margin:4px"></a>
    <a href="https://v2.vuejs.org/v2/guide/?redirect=true" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="60" style="vertical-align:top; margin:4px"></a>
    <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.nuxtjs.cn/NUXTJS-logo-800.png" alt="Nuxtjs" height="40" style="vertical-align:top; margin:4px"></a>

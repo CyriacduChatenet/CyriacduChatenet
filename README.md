@@ -53,7 +53,7 @@
 ## Devops
 <a href="https://docs.docker.com/"><img src="https://d31ezp3r8jwmks.cloudfront.net/P4LMkQbCoYdT6NiE8ZjETEbw" alt="docker logo" height="60"></a>
         <a href="https://www.heroku.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Heroku" height="60" style="vertical-align:top; margin:4px"></a>
-        <a href="https://vercel.com/" target="_blank"><img src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/vercel-integration-for-sitecore-ordercloud/vercel-logo.jpeg" alt="Vercel" height="60" style="vertical-align:top; margin:4px"></a>
+        <a href="https://vercel.com/" target="_blank"><img src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/vercel-integration-for-sitecore-ordercloud/vercel-logo.jpeg" alt="Vercel" height="100" style="vertical-align:top; margin:4px"></a>
 
 ## Product Management
    <a href="https://www.notion.so/" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="80" style="vertical-align:top; margin:4px"></a>

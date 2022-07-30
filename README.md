@@ -54,8 +54,8 @@
 <a href="https://docs.docker.com/"><img src="https://d31ezp3r8jwmks.cloudfront.net/P4LMkQbCoYdT6NiE8ZjETEbw" alt="docker logo" height="60"></a>
         <a href="https://www.heroku.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Heroku" height="60" style="vertical-align:top; margin:4px"></a>
         <a href="https://vercel.com/" target="_blank"><img src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/vercel-integration-for-sitecore-ordercloud/vercel-logo.jpeg" alt="Vercel" height="100" style="vertical-align:top; margin:4px"></a>
-  <a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/YAML_Logo.svg/2560px-YAML_Logo.svg.png" alt="YAML" height="100" style="vertical-align:top; margin:4px"></a>
-  <a href="" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github actions" height="100" style="vertical-align:top; margin:4px"></a>
+  <a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/YAML_Logo.svg/2560px-YAML_Logo.svg.png" alt="YAML" height="60" style="vertical-align:top; margin:4px"></a>
+  <a href="" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github actions" height="60" style="vertical-align:top; margin:4px"></a>
 
 
 ## Product Management

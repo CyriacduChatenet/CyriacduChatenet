@@ -11,67 +11,78 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyriacduChatenet&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyriacduChatenet&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyriacduChatenet&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🛠 Stack:
 
 ## Frontend
-### Languages
-   <a href="https://www.typescriptlang.org/" target="_blank">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://javascript.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://devdocs.io/html/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://devdocs.io/css/" target="_blank">
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-   </a>
 
-### Frameworks & libraries
-        
-   <a href="https://fr.reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="Nextjs" height="60" style="vertical-align:top; margin:4px"></a>
-    <a href="https://redux-js.org/docs" target="_blank"><img src="https://grafikart.fr/uploads/icons/redux.svg" alt="Redux" height="60" style="vertical-align:top; margin:4px"></a>
-     <a href="https://nextjs.org/docs" target="_blank"><img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Nextjs" height="80" style="vertical-align:top; margin:4px"></a>
-   <a href="https://v2.vuejs.org/v2/guide/?redirect=true" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="60" style="vertical-align:top; margin:4px"></a>
-   <a href="https://nuxtjs.org/" target="_blank"><img src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="logo Nuxt" height="80"/></a>
-    <a href="https://storybook.js.org/" target="_blank"><img src="https://d3uyj2gj5wa63n.cloudfront.net/wp-content/uploads/2019/08/011fc620-4cb2-11e9-a51a-fdbb10b4cabb-e1567090000539.png" alt="Storybook" height="35" style="vertical-align:top; margin:4px"></a>
-        <a href="https://www.cypress.io/" target="_blank"><img src="https://www.ideematic.com/wp-content/uploads/2018/07/Cypress-tests-end-to-end.png" alt="Cypress" height="60" style="vertical-align:top; margin:4px"></a>
-                <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" alt="Jest" height="60" style="vertical-align:top; margin:4px"></a>
+### Languages
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://devdocs.io/css/)
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://devdocs.io/html/)
+
+### Frameworks libraries
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://fr.reactjs.org/)
+[![react native](https://img.shields.io/badge/React_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://fr.reactjs.org/)
+[![next](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/)
+[![redux](https://img.shields.io/badge/Redux_Toolkit-7649BD?style=for-the-badge&logo=redux&logoColor=FFFFFF)](https://nextjs.org/)
+[![vue](https://img.shields.io/badge/Vue.js-28E99B?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)](https://www.javascript.com/)
+[![nuxt](https://img.shields.io/badge/Nuxt.js-28E99B?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)](https://www.javascript.com/)
+[![storybook](https://img.shields.io/badge/Storybook.js-FF4685?style=for-the-badge&logo=storybook&logoColor=FFFFFF)](https://www.javascript.com/)
+[![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://www.javascript.com/)
+[![cypress](https://img.shields.io/badge/Cypress-28E99B?style=for-the-badge&logo=cypress&logoColor=FFFFFF)](https://www.javascript.com/)
 
 ## Backend
-### Languages
-   <a href="https://www.typescriptlang.org/" target="_blank">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://javascript.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://php.net"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" height="40" style="vertical-align:top; margin:4px"></a>
 
-### Frameworks & libraries
-<a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node logo" height="60"></a>
-<a href="https://www.mongodb.com/"><img src="https://www.ambient-it.net/wp-content/uploads/2018/07/mongodb-175.png" alt="MongoDB logo" height="60"></a>
-<a href="https://expressjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express logo" height="60"></a>
-        <a href="https://www.cypress.io/" target="_blank"><img src="https://www.ideematic.com/wp-content/uploads/2018/07/Cypress-tests-end-to-end.png" alt="Cypress" height="60" style="vertical-align:top; margin:4px"></a>
-                        <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" alt="Jest" height="60" style="vertical-align:top; margin:4px"></a>
+### Languages
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![php](https://img.shields.io/badge/PHP-777CB4?style=for-the-badge&logo=php&logoColor=FFFFFF)](https://www.javascript.com/)
+
+### Frameworks & Libraries
+[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
+[![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://www.javascript.com/)
+[![cypress](https://img.shields.io/badge/Cypress-28E99B?style=for-the-badge&logo=cypress&logoColor=FFFFFF)](https://www.javascript.com/)
+
+### Databases 
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
 ## Devops
-<a href="https://docs.docker.com/"><img src="https://d31ezp3r8jwmks.cloudfront.net/P4LMkQbCoYdT6NiE8ZjETEbw" alt="docker logo" height="60"></a>
-        <a href="https://www.heroku.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Heroku" height="60" style="vertical-align:top; margin:4px"></a>
-        <a href="https://vercel.com/" target="_blank"><img src="https://wwwsitecorecom.azureedge.net/-/media/sitecoresite/images/home/products/marketplace/vercel-integration-for-sitecore-ordercloud/vercel-logo.jpeg" alt="Vercel" height="100" style="vertical-align:top; margin:4px"></a>
-  <a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/YAML_Logo.svg/2560px-YAML_Logo.svg.png" alt="YAML" height="60" style="vertical-align:top; margin:4px"></a>
-  <a href="" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github actions" height="60" style="vertical-align:top; margin:4px"></a>
+[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
+[![vercel](https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=FFF)]()
+[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+[![gitlab](https://img.shields.io/badge/GITLab-430098?style=for-the-badge&logo=gitlab&logoColor=white)]()
+[![yaml](https://img.shields.io/badge/YML-eaeaea?style=for-the-badge&logo=yml&logoColor=white)]()
+[![github actions](https://img.shields.io/badge/GITHUB_ACTIONS-eaeaea?style=for-the-badge&logo=github_actions&logoColor=white)]()
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
 
-
-## Product Management
-   <a href="https://www.notion.so/" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2021/10/Notion-Logo.png" alt="Notion" height="80" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.atlassian.com/fr/software/jira" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtk7DBxLzfqWPMJkYD3HYmmi_m3OZl21p13tbuVptwvWZakCaumcV8IZWs5KXE8Ljlv8&usqp=CAU" alt="Jira" height="60" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.atlassian.com/fr/software/confluence" target="_blank"><img src="https://bubbleplan.net/blog/wp-content/uploads/2020/09/confluence-vector-logo.png" alt="Confluence" height="80" style="vertical-align:top; margin:4px"></a>
+## Product management
+[![notion](https://img.shields.io/badge/Notion-eaeaea?style=for-the-badge&logo=notion&logoColor=000)]()
+[![jira](https://img.shields.io/badge/Jira-eaeaea?style=for-the-badge&logo=jira&logoColor=007FFF)]()
+[![confluence](https://img.shields.io/badge/Confluence-eaeaea?style=for-the-badge&logo=confluence&logoColor=007FFF)]()
+[![Google drive](https://img.shields.io/badge/Google_Drive-FFD43B?style=for-the-badge&logo=google_drive&logoColor=darkgreen)]()
+[![office](https://img.shields.io/badge/Microsoft_Office-FF6C37?style=for-the-badge&logo=microsoft_office&logoColor=white)]()
 
 ## Design
-  <a href="https://www.figma.com/" target="_blank"><img src="https://i.pinimg.com/originals/18/f1/72/18f1727873924ba58fde1f739d11b77b.png" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.adobe.com/fr/products/xd.html" target="_blank"><img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="XD" height="60" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px"></a>
+[![figma](https://img.shields.io/badge/figma-FF6C37?style=for-the-badge&logo=figma&logoColor=FFF)]()
+[![xd](https://img.shields.io/badge/Adobe_XD-460137?style=for-the-badge&logo=adobe_xd&logoColor=FFF)]()
+[![photoshop](https://img.shields.io/badge/Photoshop-001833?style=for-the-badge&logo=photoshop&logoColor=FFF)]()
+[![lightroom](https://img.shields.io/badge/Lightroom-001833?style=for-the-badge&logo=lightroom&logoColor=FFF)]()
+[![premiere pro](https://img.shields.io/badge/Premiere_pro-03005B?style=for-the-badge&logo=photoshop&logoColor=FFF)]()
+[![illustrator](https://img.shields.io/badge/Illustrator-330100?style=for-the-badge&logo=illustrator&logoColor=FFF)]()
+[![indesign](https://img.shields.io/badge/Indesign-53001A?style=for-the-badge&logo=illustrator&logoColor=FFF)]()
 
-## Let's connect
-
-<div>
-  <a href="https://www.linkedin.com/in/cyriac-descubes-du-chatenet-4776911b8/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="60" style="vertical-align:top; margin:20px"></a>
-  <a href="https://www.instagram.com/cyriacduchatenet_pro/?hl=fr" target="_blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram" height="60" style="vertical-align:top; margin:20px"></a>
-  <a href="https://dribbble.com/CyriacDuChatenet" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="Dribbble" height="60" style="vertical-align:top; margin:20px"></a>
-</div>
+# Let's connect :
+[![website](https://img.shields.io/badge/Website-eaeaea?style=for-the-badge&logo=web&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-CC6699?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Dribbble](https://img.shields.io/badge/Dribbble-CC6699?style=for-the-badge&logo=dribbble&logoColor=white)]()
+[![Behance](https://img.shields.io/badge/Behance-0078D6?style=for-the-badge&logo=behance&logoColor=white)]()

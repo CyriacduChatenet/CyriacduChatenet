@@ -12,6 +12,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyriacduChatenet&langs_count=6)]()
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyriacduChatenet&langs_count=6)]()
+[![wakatime](https://wakatime.com/badge/user/e1c2e0b9-647d-4ec9-9f57-9476b485ff2f.svg)](https://wakatime.com/@e1c2e0b9-647d-4ec9-9f57-9476b485ff2f)
 
 # 🛠 Stack:
 

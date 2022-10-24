@@ -5,7 +5,7 @@
 - Now, i am learning Docker and Github actions
 
 - On my Github's profile i have multiple projects with different technologies. some projects are finished, other not.
-- web develloppement isn't just a job, for me it's a passion.
+- web developpement isn't just a job, for me it's a passion.
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyriacduChatenet&show_icons=true)

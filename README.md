@@ -64,6 +64,9 @@
 [![yaml](https://img.shields.io/badge/YML-eaeaea?style=for-the-badge&logo=yml&logoColor=white)]()
 [![github actions](https://img.shields.io/badge/GITHUB_ACTIONS-eaeaea?style=for-the-badge&logo=github_actions&logoColor=white)]()
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
+[![vscode](https://img.shields.io/badge/Visual_Studio_Code-2CA5E0?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+[![xcode](https://img.shields.io/badge/Xcode-2CA5E0?style=for-the-badge&logo=xcode&logoColor=white)]()
+[![android studio](https://img.shields.io/badge/Android_studio-28E99B?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)]()
 
 ## Product management
 [![notion](https://img.shields.io/badge/Notion-eaeaea?style=for-the-badge&logo=notion&logoColor=000)]()
@@ -80,6 +83,11 @@
 [![premiere pro](https://img.shields.io/badge/Premiere_pro-03005B?style=for-the-badge&logo=photoshop&logoColor=FFF)]()
 [![illustrator](https://img.shields.io/badge/Illustrator-330100?style=for-the-badge&logo=illustrator&logoColor=FFF)]()
 [![indesign](https://img.shields.io/badge/Indesign-53001A?style=for-the-badge&logo=illustrator&logoColor=FFF)]()
+
+## System
+[![macos](https://img.shields.io/badge/Macos-lightgray?style=for-the-badge&logo=apple&logoColor=white)]()
+[![windows](https://img.shields.io/badge/Windows-2CA5E0?style=for-the-badge&logo=windows&logoColor=white)]()
+[![wsl](https://img.shields.io/badge/WSL2-blue?style=for-the-badge&logo=linux&logoColor=white)]()
 
 # Let's connect :
 [![website](https://img.shields.io/badge/Website-eaeaea?style=for-the-badge&logo=web&logoColor=white)]()

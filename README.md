@@ -49,8 +49,9 @@
 ### Frameworks & Libraries
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger&logoColor=white)]()
+[![Nest.js](https://img.shields.io/badge/Nest.js-E0234D?style=for-the-badge&logo=nestjs&logoColor=white)]()
 [![GraphQL](https://img.shields.io/badge/GraphQL-e732ac?style=for-the-badge&logo=graphql&logoColor=white)]()
+[![swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger&logoColor=white)]()
 [![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://www.javascript.com/)
 [![cypress](https://img.shields.io/badge/Cypress-28E99B?style=for-the-badge&logo=cypress&logoColor=FFFFFF)](https://www.javascript.com/)
 

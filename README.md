@@ -39,6 +39,10 @@
 [![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://www.javascript.com/)
 [![cypress](https://img.shields.io/badge/Cypress-28E99B?style=for-the-badge&logo=cypress&logoColor=FFFFFF)](https://www.javascript.com/)
 
+### Bundler 
+[![vite](https://img.shields.io/badge/Vite-B04EFD?style=for-the-badge&logo=vite&logoColor=FFFFFF)](https://www.javascript.com/)
+[![webpack](https://img.shields.io/badge/Webpack-8ED5FA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)](https://www.javascript.com/)
+
 ## Backend
 
 ### Languages
@@ -56,7 +60,8 @@
 [![cypress](https://img.shields.io/badge/Cypress-28E99B?style=for-the-badge&logo=cypress&logoColor=FFFFFF)](https://www.javascript.com/)
 
 ### Databases 
-[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 ## Devops
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()

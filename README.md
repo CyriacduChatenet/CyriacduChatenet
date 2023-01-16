@@ -62,6 +62,7 @@
 ### Databases 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-3459c9?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ## Devops
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()

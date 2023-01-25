@@ -2,7 +2,7 @@
 - During my studies, I'm a self-taugh, I have learn React, Vue.js and Typescript, Node.js, MongoDB, PostgreSQL and other technologies alone.
 - I have good skills in frontend, I use a lot React and Node.js 💻
 
-- Now, i am learning Three.js
+- Now, i am learning TailwindCSS
 
 - On my Github's profile i have multiple projects with different technologies. some projects are finished, other not.
 - web developpement isn't just a job, for me it's a passion.

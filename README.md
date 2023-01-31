@@ -91,6 +91,7 @@
 [![xd](https://img.shields.io/badge/Adobe_XD-460137?style=for-the-badge&logo=adobe_xd&logoColor=FFF)]()
 [![photoshop](https://img.shields.io/badge/Photoshop-001833?style=for-the-badge&logo=photoshop&logoColor=FFF)]()
 [![lightroom](https://img.shields.io/badge/Lightroom-001833?style=for-the-badge&logo=lightroom&logoColor=FFF)]()
+[![AfterEffect](https://img.shields.io/badge/After_Effect-001833?style=for-the-badge&logo=after_effect&logoColor=FFF)]()
 [![premiere pro](https://img.shields.io/badge/Premiere_pro-03005B?style=for-the-badge&logo=photoshop&logoColor=FFF)]()
 [![illustrator](https://img.shields.io/badge/Illustrator-330100?style=for-the-badge&logo=illustrator&logoColor=FFF)]()
 [![indesign](https://img.shields.io/badge/Indesign-53001A?style=for-the-badge&logo=illustrator&logoColor=FFF)]()

@@ -36,6 +36,7 @@
 [![vue](https://img.shields.io/badge/Vue.js-28E99B?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)](https://www.javascript.com/)
 [![nuxt](https://img.shields.io/badge/Nuxt.js-28E99B?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)](https://www.javascript.com/)
 [![storybook](https://img.shields.io/badge/Storybook.js-FF4685?style=for-the-badge&logo=storybook&logoColor=FFFFFF)](https://www.javascript.com/)
+[![Tailwind.CSS](https://img.shields.io/badge/TailwindCSS-16a1ba?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://www.javascript.com/)
 [![cypress](https://img.shields.io/badge/Cypress-28E99B?style=for-the-badge&logo=cypress&logoColor=FFFFFF)](https://www.javascript.com/)
 

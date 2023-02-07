@@ -80,7 +80,6 @@
 [![notion](https://img.shields.io/badge/Notion-eaeaea?style=for-the-badge&logo=notion&logoColor=000)]()
 [![jira](https://img.shields.io/badge/Jira-eaeaea?style=for-the-badge&logo=jira&logoColor=007FFF)]()
 [![confluence](https://img.shields.io/badge/Confluence-eaeaea?style=for-the-badge&logo=confluence&logoColor=007FFF)]()
-[![Google drive](https://img.shields.io/badge/Google_Drive-FFD43B?style=for-the-badge&logo=google_drive&logoColor=darkgreen)]()
 [![office](https://img.shields.io/badge/Microsoft_Office-FF6C37?style=for-the-badge&logo=microsoft_office&logoColor=white)]()
 
 ## Design
@@ -95,7 +94,7 @@
 ## System
 [![macos](https://img.shields.io/badge/Macos-lightgray?style=for-the-badge&logo=apple&logoColor=white)]()
 [![windows](https://img.shields.io/badge/Windows-2CA5E0?style=for-the-badge&logo=windows&logoColor=white)]()
-[![wsl](https://img.shields.io/badge/WSL2-blue?style=for-the-badge&logo=linux&logoColor=white)]()
+[![wsl](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=white)]()
 
 # Let's connect :
 [![website](https://img.shields.io/badge/Website-eaeaea?style=for-the-badge&logo=web&logoColor=white)]()

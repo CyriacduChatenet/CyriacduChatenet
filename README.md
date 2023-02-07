@@ -35,8 +35,6 @@
 [![nuxt](https://img.shields.io/badge/Nuxt.js-28E99B?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)](https://www.javascript.com/)
 [![storybook](https://img.shields.io/badge/Storybook.js-FF4685?style=for-the-badge&logo=storybook&logoColor=FFFFFF)](https://www.javascript.com/)
 [![Tailwind.CSS](https://img.shields.io/badge/TailwindCSS-16a1ba?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://www.javascript.com/)
-[![cypress](https://img.shields.io/badge/Cypress-28E99B?style=for-the-badge&logo=cypress&logoColor=FFFFFF)](https://www.javascript.com/)
 
 ### Bundler 
 [![vite](https://img.shields.io/badge/Vite-B04EFD?style=for-the-badge&logo=vite&logoColor=FFFFFF)](https://www.javascript.com/)
@@ -47,7 +45,6 @@
 ### Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![php](https://img.shields.io/badge/PHP-777CB4?style=for-the-badge&logo=php&logoColor=FFFFFF)](https://www.javascript.com/)
 
 ### Frameworks & Libraries
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
@@ -55,8 +52,6 @@
 [![Nest.js](https://img.shields.io/badge/Nest.js-E0234D?style=for-the-badge&logo=nestjs&logoColor=white)]()
 [![GraphQL](https://img.shields.io/badge/GraphQL-e732ac?style=for-the-badge&logo=graphql&logoColor=white)]()
 [![swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger&logoColor=white)]()
-[![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://www.javascript.com/)
-[![cypress](https://img.shields.io/badge/Cypress-28E99B?style=for-the-badge&logo=cypress&logoColor=FFFFFF)](https://www.javascript.com/)
 
 ### Databases 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
@@ -65,17 +60,18 @@
 [![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)](https://airtable.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 
+## Testing
+[![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://www.javascript.com/)
+[![cypress](https://img.shields.io/badge/Cypress-28E99B?style=for-the-badge&logo=cypress&logoColor=FFFFFF)](https://www.javascript.com/)
+
 ## Devops
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 [![vercel](https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=FFF)]()
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
+[![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![gitlab](https://img.shields.io/badge/GITLab-430098?style=for-the-badge&logo=gitlab&logoColor=white)]()
-[![yaml](https://img.shields.io/badge/YML-eaeaea?style=for-the-badge&logo=yml&logoColor=white)]()
-[![github actions](https://img.shields.io/badge/GITHUB_ACTIONS-eaeaea?style=for-the-badge&logo=github_actions&logoColor=white)]()
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-2CA5E0?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 [![xcode](https://img.shields.io/badge/Xcode-2CA5E0?style=for-the-badge&logo=xcode&logoColor=white)]()
 [![android studio](https://img.shields.io/badge/Android_studio-28E99B?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)]()
@@ -95,7 +91,6 @@
 [![AfterEffect](https://img.shields.io/badge/After_Effect-001833?style=for-the-badge&logo=after_effect&logoColor=FFF)]()
 [![premiere pro](https://img.shields.io/badge/Premiere_pro-03005B?style=for-the-badge&logo=photoshop&logoColor=FFF)]()
 [![illustrator](https://img.shields.io/badge/Illustrator-330100?style=for-the-badge&logo=illustrator&logoColor=FFF)]()
-[![indesign](https://img.shields.io/badge/Indesign-53001A?style=for-the-badge&logo=illustrator&logoColor=FFF)]()
 
 ## System
 [![macos](https://img.shields.io/badge/Macos-lightgray?style=for-the-badge&logo=apple&logoColor=white)]()

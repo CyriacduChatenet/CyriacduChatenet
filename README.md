@@ -59,6 +59,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-3459c9?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/fr/)
 [![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)](https://airtable.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Strapi](https://img.shields.io/badge/Strapi-8A71F7?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)
 
 ## Testing
 [![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://jestjs.io/fr/)

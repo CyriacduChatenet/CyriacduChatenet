@@ -10,8 +10,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyriacduChatenet&theme=tokyonight) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyriacduChatenet&theme=tokyonight) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyriacduChatenet&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyriacduChatenet&langs_count=6&theme=tokyonight)]()
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyriacduChatenet&langs_count=6)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyriacduChatenet&layout=compact&langs_count=10&theme=tokyonight&card_width=450)]()
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyriacduChatenet&layout=compact&langs_count=10&theme=tokyonight&card_width=450)]()
 [![wakatime](https://wakatime.com/badge/user/e1c2e0b9-647d-4ec9-9f57-9476b485ff2f.svg)](https://wakatime.com/@e1c2e0b9-647d-4ec9-9f57-9476b485ff2f)
 
 # 🛠 Stack:
@@ -81,16 +81,9 @@
 [![notion](https://img.shields.io/badge/Notion-eaeaea?style=for-the-badge&logo=notion&logoColor=000)](https://www.notion.so/fr-fr/product)
 [![jira](https://img.shields.io/badge/Jira-eaeaea?style=for-the-badge&logo=jira&logoColor=007FFF)](https://www.atlassian.com/fr/software/jira)
 [![confluence](https://img.shields.io/badge/Confluence-eaeaea?style=for-the-badge&logo=confluence&logoColor=007FFF)](https://www.atlassian.com/fr/software/confluence)
-[![office](https://img.shields.io/badge/Microsoft_Office-FF6C37?style=for-the-badge&logo=microsoft_office&logoColor=white)](https://www.microsoft.com/fr-fr/microsoft-365/microsoft-office)
 
 ## Design
 [![figma](https://img.shields.io/badge/figma-FF6C37?style=for-the-badge&logo=figma&logoColor=FFF)]()
-[![xd](https://img.shields.io/badge/Adobe_XD-460137?style=for-the-badge&logo=adobe_xd&logoColor=FFF)]()
-[![photoshop](https://img.shields.io/badge/Photoshop-001833?style=for-the-badge&logo=photoshop&logoColor=FFF)]()
-[![lightroom](https://img.shields.io/badge/Lightroom-001833?style=for-the-badge&logo=lightroom&logoColor=FFF)]()
-[![AfterEffect](https://img.shields.io/badge/After_Effect-001833?style=for-the-badge&logo=after_effect&logoColor=FFF)]()
-[![premiere pro](https://img.shields.io/badge/Premiere_pro-03005B?style=for-the-badge&logo=photoshop&logoColor=FFF)]()
-[![illustrator](https://img.shields.io/badge/Illustrator-330100?style=for-the-badge&logo=illustrator&logoColor=FFF)]()
 
 ## System
 [![macos](https://img.shields.io/badge/Macos-lightgray?style=for-the-badge&logo=apple&logoColor=white)]()

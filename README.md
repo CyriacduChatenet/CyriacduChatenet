@@ -31,8 +31,8 @@
 [![react native](https://img.shields.io/badge/React_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![next](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/)
 [![redux](https://img.shields.io/badge/Redux_Toolkit-7649BD?style=for-the-badge&logo=redux&logoColor=FFFFFF)](https://redux-toolkit.js.org/)
-[![vue](https://img.shields.io/badge/Vue.js-28E99B?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/)
-[![nuxt](https://img.shields.io/badge/Nuxt.js-28E99B?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)](https://nuxtjs.org/)
+[![vue](https://img.shields.io/badge/Vue.js-001E26?style=for-the-badge&logo=vuedotjs&logoColor=28E99B)](https://vuejs.org/)
+[![nuxt](https://img.shields.io/badge/Nuxt.js-001E26?style=for-the-badge&logo=nuxtdotjs&logoColor=28E99B)](https://nuxtjs.org/)
 [![storybook](https://img.shields.io/badge/Storybook.js-FF4685?style=for-the-badge&logo=storybook&logoColor=FFFFFF)](https://storybook.js.org/)
 [![Tailwind.CSS](https://img.shields.io/badge/TailwindCSS-16a1ba?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
@@ -63,7 +63,7 @@
 
 ## Testing
 [![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://jestjs.io/fr/)
-[![cypress](https://img.shields.io/badge/Cypress-28E99B?style=for-the-badge&logo=cypress&logoColor=FFFFFF)](https://www.cypress.io/)
+[![cypress](https://img.shields.io/badge/Cypress-1C1E2E?style=for-the-badge&logo=cypress&logoColor=28E79B)](https://www.cypress.io/)
 
 ## Devops
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -75,7 +75,7 @@
 [![gitlab](https://img.shields.io/badge/GITLab-430098?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-2CA5E0?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![xcode](https://img.shields.io/badge/Xcode-2CA5E0?style=for-the-badge&logo=xcode&logoColor=white)](https://apps.apple.com/fr/app/xcode/id497799835?mt=12)
-[![android studio](https://img.shields.io/badge/Android_studio-28E99B?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)](https://developer.android.com/studio)
+[![android studio](https://img.shields.io/badge/Android_studio-063041?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)](https://developer.android.com/studio)
 
 ## Product management
 [![notion](https://img.shields.io/badge/Notion-eaeaea?style=for-the-badge&logo=notion&logoColor=000)](https://www.notion.so/fr-fr/product)

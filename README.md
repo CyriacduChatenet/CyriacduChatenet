@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Cyriac du Chatenet, I'm a french 🇫🇷 fullstack React NestJS developer. I started to code in october 2020.
 - During my studies, I'm a self-taugh, I have learn React, Vue.js and Typescript, Node.js, MongoDB, PostgreSQL and other technologies alone.
 - I have good skills in frontend, mobile and backend, I use a lot React, React Native and Node.js 💻
+- Now i am learning Laravel
 
 - On my Github's profile i have multiple projects with different technologies. some projects are finished, other not.
 - web developpement isn't just a job, for me it's a passion.

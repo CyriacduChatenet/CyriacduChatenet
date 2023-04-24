@@ -55,10 +55,6 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-e732ac?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 
-[![Strapi](https://img.shields.io/badge/Strapi-8A71F7?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)
-[![Sanity](https://img.shields.io/badge/Sanity-F03F2E?style=for-the-badge&logo=sanity_studio&logoColor=white)](https://sanity.io/)
-
-
 ### Databases 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mongodb.com/developer/languages/javascript/nextjs-with-mongodb/)
@@ -66,6 +62,8 @@
 [![SQLite](https://img.shields.io/badge/SQLite-0F6BB7?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
 [![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)](https://airtable.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Strapi](https://img.shields.io/badge/Strapi-8A71F7?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)
+[![Sanity](https://img.shields.io/badge/Sanity-F03F2E?style=for-the-badge&logo=sanity_studio&logoColor=white)](https://sanity.io/)
 
 ## Testing
 [![jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest&logoColor=FFFFFF)](https://jestjs.io/fr/)

@@ -60,6 +60,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mongodb.com/developer/languages/javascript/nextjs-with-mongodb/)
 [![MySQL](https://img.shields.io/badge/MySQL-3459c9?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/fr/)
 [![SQLite](https://img.shields.io/badge/SQLite-0F6BB7?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
+
 [![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)](https://airtable.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 [![Strapi](https://img.shields.io/badge/Strapi-8A71F7?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)

@@ -54,7 +54,10 @@
 [![Nest.js](https://img.shields.io/badge/Nest.js-E0234D?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-e732ac?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+
 [![Strapi](https://img.shields.io/badge/Strapi-8A71F7?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)
+[![Sanity](https://img.shields.io/badge/Sanity-F03F2E?style=for-the-badge&logo=sanity_studio&logoColor=white)](https://sanity.io/)
+
 
 ### Databases 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()

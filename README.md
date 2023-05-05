@@ -32,8 +32,6 @@
 [![react native](https://img.shields.io/badge/React_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![next](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/)
 [![redux](https://img.shields.io/badge/Redux_Toolkit-7649BD?style=for-the-badge&logo=redux&logoColor=FFFFFF)](https://redux-toolkit.js.org/)
-[![vue](https://img.shields.io/badge/Vue.js-001E26?style=for-the-badge&logo=vuedotjs&logoColor=28E99B)](https://vuejs.org/)
-[![nuxt](https://img.shields.io/badge/Nuxt.js-001E26?style=for-the-badge&logo=nuxtdotjs&logoColor=28E99B)](https://nuxtjs.org/)
 [![storybook](https://img.shields.io/badge/Storybook.js-FF4685?style=for-the-badge&logo=storybook&logoColor=FFFFFF)](https://storybook.js.org/)
 [![Tailwind.CSS](https://img.shields.io/badge/TailwindCSS-16a1ba?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 

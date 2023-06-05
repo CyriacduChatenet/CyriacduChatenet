@@ -35,9 +35,9 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 ### Frameworks & Libraries
+[![Nest.js](https://img.shields.io/badge/Nest.js-E0234D?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/fr/)
-[![Nest.js](https://img.shields.io/badge/Nest.js-E0234D?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![GraphQL](https://img.shields.io/badge/GraphQL-e732ac?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 
 ### Databases 

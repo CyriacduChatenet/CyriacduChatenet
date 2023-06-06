@@ -42,7 +42,7 @@
 
 ### Databases 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mongodb.com/developer/languages/javascript/nextjs-with-mongodb/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-3459c9?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/fr/)
 [![SQLite](https://img.shields.io/badge/SQLite-0F6BB7?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
 

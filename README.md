@@ -8,6 +8,7 @@
 - web developpement isn't just a job, for me it's a passion.
 <br>
 
+![Cyriac's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyriacduChatenet&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyriacduChatenet&layout=compact&langs_count=10&theme=tokyonight&card_width=450)]()
 
 # 🛠 Stack:

@@ -2,7 +2,7 @@
 - During my studies, I'm a self-taugh, I have learn React, React Native, Typescript, Node.js and other technologies alone.
 - I have good skills in frontend, mobile and backend, I use a lot React, React Native and Node.js 💻
 
-- Now i learn Flutter and Laravel
+- Now i learn Flutter 
   
 - On my Github's profile i have multiple projects with different technologies. some projects are finished, other not.
 - web developpement isn't just a job, for me it's a passion.

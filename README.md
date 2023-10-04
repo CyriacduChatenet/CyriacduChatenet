@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Cyriac du Chatenet, I'm a french 🇫🇷 fullstack React NestJS developer. I started to code in october 2020.
 - During my studies, I'm a self-taugh, I have learn React, React Native, Typescript, Node.js and other technologies alone.
 - I have good skills in frontend, mobile and backend, I use a lot React, React Native and Node.js 💻
-
-- Now i learn Flutter 
   
 - On my Github's profile i have multiple projects with different technologies. some projects are finished, other not.
 - web developpement isn't just a job, for me it's a passion.
@@ -17,7 +15,8 @@
 ### Languages
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![dart](https://img.shields.io/badge/Dart-2DB6F5?style=for-the-badge&logo=dart&logoColor=FFFFFF)](https://dart.dev/)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://devdocs.io/css/)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://devdocs.io/html/)
@@ -25,6 +24,7 @@
 ### Frameworks libraries
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://fr.reactjs.org/)
 [![react native](https://img.shields.io/badge/React_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![flutter](https://img.shields.io/badge/Flutter-60C8F7?style=for-the-badge&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/)
 [![next](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/)
 [![redux](https://img.shields.io/badge/Redux_Toolkit-7649BD?style=for-the-badge&logo=redux&logoColor=FFFFFF)](https://redux-toolkit.js.org/)
 [![vue](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=44D292)](https://vuejs.org/)

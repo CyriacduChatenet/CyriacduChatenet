@@ -11,7 +11,6 @@
 
 # 🛠 Stack:
 ## Frontend
-
 ### Languages
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
@@ -32,10 +31,10 @@
 [![storybook](https://img.shields.io/badge/Storybook.js-FF4685?style=for-the-badge&logo=storybook&logoColor=FFFFFF)](https://storybook.js.org/)
 
 ## Backend
-
 ### Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 ### Frameworks & Libraries

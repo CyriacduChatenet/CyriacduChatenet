@@ -1,3 +1,4 @@
+module.exports = `
 - 👋 Hi, I’m Cyriac du Chatenet, I'm a french 🇫🇷 fullstack Flutter JavaScript developer. I started to code in october 2020.
 - During my studies, I'm a self-taugh, I have learn React, React Native, Typescript, Node.js and other technologies alone.
 - I have good skills in frontend, mobile and backend, I use a lot React, React Native and Node.js 💻
@@ -66,3 +67,4 @@
 [![website](https://img.shields.io/badge/Website-eaeaea?style=for-the-badge&logo=web&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
+`;

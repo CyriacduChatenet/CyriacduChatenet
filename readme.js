@@ -66,4 +66,10 @@ module.exports = `
 # Let's connect :
 [![website](https://img.shields.io/badge/Website-eaeaea?style=for-the-badge&logo=web&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+Last update on <#today_date>
+
+<#day_before_new_years> days before new years
+
+<#gabot_signing>
 `;

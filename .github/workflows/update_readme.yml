@@ -27,11 +27,12 @@ jobs:
       - name: commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: Melvynx
-          author_email: melvynmal@gmail.com
+          author_name: CyriacduChatenet
+          author_email: cyriacduchatenet@icloud.com
           force: false
           signoff: false
           message: ':memo: README.md updated by Gabot'
         env:
           # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          permissions: write:packages

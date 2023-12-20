@@ -38,6 +38,7 @@ module.exports = `
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org/)
 [![dart](https://img.shields.io/badge/Dart-2DB6F5?style=for-the-badge&logo=dart&logoColor=FFFFFF)](https://dart.dev/)
+[![ruby](https://img.shields.io/badge/Ruby-CC332D?style=for-the-badge&logo=ruby&logoColor=FFFFFF)](https://www.ruby-lang.org/fr/documentation/)
 
 ### Frameworks & Libraries
 [![Nest.js](https://img.shields.io/badge/Nest.js-E0234D?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)

@@ -68,8 +68,8 @@
 [![website](https://img.shields.io/badge/Website-eaeaea?style=for-the-badge&logo=web&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-Last update on Wed May 29 2024
+Last update on Thu May 30 2024
 
-**216 days before 2025 ⏱** days before new years
+**215 days before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with pleasure, by Gabot ❤️
+🤖 This README.md is updated with wickedness, by Gabot ❤️
